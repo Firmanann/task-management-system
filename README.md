@@ -26,7 +26,7 @@ A collaborative task management application built with vanilla JavaScript, demon
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Firmanann/task-management-system.githttps://github.com/Firmanann/task-management-system.git
+git clone https://github.com/Firmanann/task-management-system.git
 cd task-management-system
 
 # 2. Install dependencies
@@ -158,3 +158,4 @@ This project is licensed under the MIT License.
 
 <p align="center">
 <b>Happy Coding!</b> 🎉
+</p>
