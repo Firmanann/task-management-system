@@ -1,4 +1,3 @@
-```markdown
 # 📝 Task Management System
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -9,17 +8,17 @@ A collaborative task management application built with vanilla JavaScript, demon
 
 ## 🚀 Features
 
-* ✅ **Task Management**: Create, edit, delete, and organize tasks
-* 👥 **Multi-User Support**: User management and authentication
-* 📊 **Analytics**: Task statistics and progress tracking
-* 🧪 **Testing**: Comprehensive test suite with Jest
-* 🔄 **Version Control**: Git workflow with feature branches
+* ✅ Task Management: Create, edit, delete, and organize tasks
+* 👥 Multi-User Support: User management and authentication
+* 📊 Analytics: Task statistics and progress tracking
+* 🧪 Testing: Comprehensive test suite with Jest
+* 🔄 Version Control: Git workflow with feature branches
 
 ## 🛠️ Getting Started
 
 ### Prerequisites
-* **Node.js 14+** installed
-* **Git** installed and configured
+* Node.js 14+ installed
+* Git installed and configured
 * Modern web browser
 
 ### Installation
